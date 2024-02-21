@@ -1,0 +1,2 @@
+# SpreadSheetGAS
+スプレッドシート効率化用GoogleAppsScript
